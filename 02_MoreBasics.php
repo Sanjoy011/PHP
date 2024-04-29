@@ -41,7 +41,7 @@
         $var = array ("Python","C++","PHP","Java");
         echo $var[2];
 
-        // Loops in php------------------------------->
+        // While Loops in php------------------------------->
         $a = 0;
         while($a <= 5) {
             echo "<br>The value of a from the while loops is: ";
@@ -80,9 +80,6 @@
         }
         print_number(32);
         print_number(45);
-
-
-
         ?>
 
 
